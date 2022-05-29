@@ -1,0 +1,319 @@
+{
+    "BRAND STRATEGY": {
+        "Situation Analysis and Brand Audit": {
+            "img": "./static/images/list-of-services/brand-strategy/1.svg",
+            "description": [
+                "We use audience-focused research methods to unearth customers' intent, sentiment, and context, thus informing brands on the most relevant behavioral insights. These insights are leveraged in creating dynamic, flexible, and engaging content and campaigns."
+            ]
+        },
+        "Brand Communications and Content Strategy": {
+            "img": "./static/images/list-of-services/brand-strategy/2.svg",
+            "description": [
+                "We develop campaigns that deliver on short-term brand activations and long-term brand building. By creating targeted and personalised communications, we help brands execute creative experiences and impactful messaging across the stages of the marketing funnel."
+            ]
+        },
+        "Full Funnel, Multi-Channel Brand Experience Strategy": {
+            "img": "./static/images/list-of-services/brand-strategy/3.svg",
+            "description": [
+                "How brands decide on interacting with their audiences, across audiences, industries and touchpoints influences the customers' intent on interacting with the brand again. As communication strategy experts, we deliver on omni-channel experiences through content, campaigns and channel activations, experienced by consumers at every stage of their journey."
+            ]
+        }
+    },
+    "CONTENT PRODUCTION": {
+        "Full Scale Digital and TVC Productions": {
+            "img": "./static/images/list-of-services/content-production/4.svg",
+            "description": [
+                "We deliver end-to-end, full scope, online and on-air videos from pre-production to post-production, including storyboarding, production design, lighting and camera equipment, location hunting or studio procurement, and talent casting."
+            ]
+        },
+        "Post Production": {
+            "img": "./static/images/list-of-services/content-production/5.svg",
+            "description": [
+                "We offer the full suite of post-production service including offline, online color grading, and animation work for Digital and TVC videos across the formats - 2D Motion Graphics videos, Pocket TVCs, Microvideos (GIFs, Bumper Ads)."
+            ]
+        },
+        "Livestream Production": {
+            "img": "./static/images/list-of-services/content-production/6.svg",
+            "description": [
+                "We stage remote shoots complete with director and producer supervision, and cover a range of productions such as webinars, brand launch, game streaming, culinary shows, live and taped event coverage."
+            ]
+        },
+        "Audio Production": {
+            "img": "./static/images/list-of-services/content-production/7.svg",
+            "description": [
+                "We provide full scope sound design, scoring, soundtrack production, voice over casting and recording, mixing, arrangment for all media platforms."
+            ]
+        },
+        "Photoshoots": {
+            "img": "./static/images/list-of-services/content-production/8.svg",
+            "description": [
+                "We stage and deliver full-scope photoshoots for asset banks, new product packaging, and event coverage."
+            ]
+        }
+    },
+    "MEDIA": {
+        "Media Planning & Strategy": {
+            "img": "./static/images/list-of-services/media/9.svg",
+            "description": [
+                "We deliver overall media management, buying and campaign monitoring, overall media roll-out framework, channel recommendations, targeting and cost-effective budget allocation strategies."
+            ]
+        },
+        "Precision Marketing": {
+            "img": "./static/images/list-of-services/media/10.svg",
+            "description": [
+                "We help brands achieve lower funnel objectives (leads generation, conversion, installs, etc.) by connecting brands to their most valuable audiences through the right digital channels at the most cost-effective rates.",
+                "Creative assets and materials are constantly optimized based on media performance to ensure thatthe right communication is being delivered to the right audience."
+            ]
+        },
+        "Performance Audit": {
+            "img": "./static/images/list-of-services/media/11.svg",
+            "description": [
+                "We conduct in-depth audits and assessments of current digital assets to identify gaps prior to launching precision marketing campaigns. We assist in the proper attribution of actions and sales by setting up tracking tags."
+            ]
+        },
+        "Media Reporting and Analytics": {
+            "img": "./static/images/list-of-services/media/12.svg",
+            "description": [
+                "We deliver comprehensive post-mortem reports that present insight and recommendations that will improve marketing performance."
+            ]
+        },
+        "Influencer Marketing": {
+            "img": "./static/images/list-of-services/media/13.svg",
+            "description": [
+                "We drive brand amplification and engagement by leveraging partner influencer networks. Together, we develop and execute innovative influencer marketing efforts that strengthen the brand messaging.",
+                "Our IM team develops creative concepts to campaign realisation, measures and provides reports on each campaign."
+            ]
+        }
+    },
+    "CREATIVE": {
+        "Multi-Platform Content Development": {
+            "img": "./static/images/list-of-services/creative/14.svg",
+            "description": [
+                "Online, on-air, on-ground, we create compelling content that closes the loop and provides satisfaction for our clients and their consumers."
+            ]
+        },
+        "Creative Supervision (Print/TV/Digital Shoots)": {
+            "img": "./static/images/list-of-services/creative/15.svg",
+            "description": [
+                "We provide top-notch, plug-and-play production capabilities, effective at any stage of development, on any medium."
+            ]
+        },
+        "Digital Playbook Development": {
+            "img": "./static/images/list-of-services/creative/16.svg",
+            "description": [
+                "We develop platforms and programs that facilitate the enablement and empowerment of our clients and partners as we navigate the digital and social terrain together."
+            ]
+        },
+        "Creative Tech Ideation": {
+            "img": "./static/images/list-of-services/creative/17.svg",
+            "description": [
+                "To further the effectiveness of brands' communications, we leverage the infusion of technology to amplify creative output, thus providing marketers with effective executions designed to forge a strong bond with consumers."
+            ]
+        },
+        "Big Idea Generation": {
+            "img": "./static/images/list-of-services/creative/18.svg",
+            "description": [
+                "We develop big ideas for brands to effectively communicate the ethos of their products and services to consumers. Our big ideas are equipped with astute consumer insights, deep product understanding and a relentless desire for crisp expression of ideas."
+            ]
+        },
+        "Campaign Development": {
+            "img": "./static/images/list-of-services/creative/19.svg",
+            "description": [
+                "We create a play of creative, research-backed ideas with strategic thinking to come up with engaging, multi-platform campaigns. By deep-diving into the audience segments' psychology, we are able to develop communications that consumers connect with on a highly personal level."
+            ]
+        },
+        "Brand Book Development": {
+            "img": "./static/images/list-of-services/creative/20.svg",
+            "description": [
+                "Our brand books are developed carefully, describing in great detail the brand context alongside the specifics of presenting brand elements across multiple communication channels. Aimed to strengthen the brand's visual culture, it provides a clear picture of the brand identity."
+            ]
+        },
+        "Key Visual Development": {
+            "img": "./static/images/list-of-services/creative/21.svg",
+            "description": [
+                "To strengthen a brand's presence and recall amongst consumers, we design key visuals by applying the right mix of market intelligence and creativity. The visual creation emphasizes on uniqueness and helps brand create emotional associations that consumers can relate to."
+            ]
+        },
+        "Copywriting": {
+            "img": "./static/images/list-of-services/creative/22.svg",
+            "description": [
+                "We look at copywriting as a strong instrument in the marketing toolbox that has a big influence on the efficacy of an advertising or marketing piece. We take a methodical, research-based approach towards developing copy, learning in great depth about the product, the company and the audience in order to create messaging that is unique and evokes positive sentiment amongst consumers."
+            ]
+        },
+        "Logo Designs": {
+            "img": "./static/images/list-of-services/creative/23.svg",
+            "description": [
+                "With the end goal of reinforcing loyalty and strengthening recognition, we design logos and assets that help brands evolve to the next step of their marketing journey."
+            ]
+        }
+    },
+    "ENGAGEMENT": {
+        "Social Media Page Engagement": {
+            "img": "./static/images/list-of-services/engagement/24.svg",
+            "description": [
+                "We manage comments and private messages in brand social accounts (inbound). This covers FAQ Management and SMPI process for complaints, recommendations and inquiries on Facebook, Twitter, and Instagram."
+            ]
+        },
+        "Social Listening": {
+            "img": "./static/images/list-of-services/engagement/25.svg",
+            "description": [
+                "We monitor social media channels to identify insights on customer feedback and direct mentions, supporting the strategic insighting. We put strategic premium on social listening as a crucial component of audience research and strategic planning."
+            ]
+        },
+        "Sentiment Analysis": {
+            "img": "./static/images/list-of-services/engagement/26.svg",
+            "description": [
+                "We provide quantitative analysis of the conversations and theme clusters present in brand materials via sentiment crawling and tagging."
+            ]
+        }
+    },
+    "ECOMMERCE MARKETING": {
+        "eCommerce Strategy": {
+            "img": "./static/images/list-of-services/ecommerce-marketing/27.svg",
+            "description": [
+                "We generate a clear view of growth opportunities and strategic imperatives for your brand to meet its KPIs by analyzing the business situation, target segments, personas, competitive and market landscape."
+            ]
+        },
+        "Lead-to-Platform Communications": {
+            "img": "./static/images/list-of-services/ecommerce-marketing/28.svg",
+            "description": [
+                "We provide thumb-stopping shoppable content and experiences through creative use of digital and eCommerce technology. Our data-informed media and creatives are designed to maximize investment efficiencies in brand building and conversion efforts."
+            ]
+        },
+        "Dynamic eCommerce Content": {
+            "img": "./static/images/list-of-services/ecommerce-marketing/29.svg",
+            "description": [
+                "We provide dynamic content services for eCommerce that are informed by data and results, enhancing the reach and relevance of the content for the end consumer."
+            ]
+        },
+        "SEO and Platform Audit and Optimization": {
+            "img": "./static/images/list-of-services/ecommerce-marketing/30.svg",
+            "description": [
+                "We review and propose SEO techniques for better eCommerce platform visibility and search ranking."
+            ]
+        },
+        "Performance Media": {
+            "img": "./static/images/list-of-services/ecommerce-marketing/31.svg",
+            "description": [
+                "Our Performance Media services provide media planning, buying and optimization to create effective search, social, display, and commerce experiences, and convert consumer intent into revenue."
+            ]
+        },
+        "eCommerce Intel, Analytics, and Report Automation": {
+            "img": "./static/images/list-of-services/ecommerce-marketing/32.svg",
+            "description": [
+                "We gather and analyze platform traffic and activity data and turn these into insights that enhance the customer purchase journey."
+            ]
+        }
+    },
+    "CONSULTING": {
+        "Digital Ecosystem and Experience Audit": {
+            "img": "./static/images/list-of-services/consulting/33.svg",
+            "description": [
+                "We provide a multi-method assessment of digital assets of the brand and its key competitors to determine the brand's position in the Digital Maturity Roadmap with respect to media, strategy, engagement and experience design practitioners and managers. The audit highlights issues and opportunities across different touchpoints in the consumer journey."
+            ]
+        },
+        "eCommerce Transformation Strategy": {
+            "img": "./static/images/list-of-services/consulting/34.svg",
+            "description": [
+                "The eCommerce Transformation Strategy helps businesses in articulating their eCommerce goals, key strategies and operational tactics.",
+                "We provide clients a roadmap for business transformation by identifying the enablers needed across the eCommerce value chain."
+            ]
+        },
+        "Innovation Workshops": {
+            "img": "./static/images/list-of-services/consulting/35.svg",
+            "description": [
+                "The Innovation Session is a facilitated, cross-functional ideation workshop that uses human-centered design principles and frameworks to provide solutions spanning across customer experience, product/service offering and business configuration. Brands are provided with a Lean or Business Model Canvas that informs them of the pilot projects that will help in meeting the business objectives."
+            ]
+        }
+    },
+    "ANALYTICS": {
+        "Digital Consumer Intelligence": {
+            "img": "./static/images/list-of-services/analytics/36.svg",
+            "description": [
+                "We combine digital, survey, social and first party data to understand consumer and market trends. We generate actionable consumer insights for effective tactical and strategic executions."
+            ]
+        },
+        "Brand Communications and Content Performance Analytics": {
+            "img": "./static/images/list-of-services/analytics/37.svg",
+            "description": [
+                "To help brands appreciate the true impact of their communications and content, we run their various creative executions through a series of tests to deeply analyze and measure effectiveness against set business objectives."
+            ]
+        },
+        "Full-Funnel, Multi-Channel Performance Analytics": {
+            "img": "./static/images/list-of-services/analytics/38.svg",
+            "description": [
+                "We provide effectiveness analysis at each stage of the marketing funnel to determine overall performance and identify and mitigate drop-off or fall-out points."
+            ]
+        }
+    },
+    "EXPERIENCE DESIGN": {
+        "Platform UX/UI design": {
+            "img": "./static/images/list-of-services/experience-design/39.svg",
+            "description": [
+                "We help brands improve engagement with their customers by designing best-in-class platform UX/UI design."
+            ]
+        },
+        "Service Design": {
+            "img": "./static/images/list-of-services/experience-design/40.svg",
+            "description": [
+                "We simplify what is complex for consumers and brands and ensure viability across multiple touchpoints. Our Experienced Designers apply UX and CX principles that generate best experiences and engagement for both consumers and brands."
+            ]
+        },
+        "Expert Review and Usability Testing": {
+            "img": "./static/images/list-of-services/experience-design/41.svg",
+            "description": [
+                "We build a comprehensive assessment of brand touchpoints through usability tests, from the customer journey to the user interface of the brands' different online platforms."
+            ]
+        }
+    },
+    "TECHNOLOGY": {
+        "Technical Deep Dive and Workshops": {
+            "img": "./static/images/list-of-services/technology/42.svg",
+            "description": [
+                "We deliver simulation exercises to measure viability of a proposed solution on current operational processes and systems. By zooming in on backend operations, we determine features and capabilities of backend systems like the Content Management System (CMS), Customer Relationship Management (CRM) system, or a Distribution Management System (DMS), to make operations and functions more efficient in serving and impacting overall customer experience."
+            ]
+        },
+        "Solutions Architecture with Project Management": {
+            "img": "./static/images/list-of-services/technology/43.svg",
+            "description": [
+                "We help brands apply calibrations on Systems Design to improve system scalability, optimize costs, improve system security, improve migration readiness, and integrate new systems and services."
+            ]
+        },
+        "eCommerce Web Application Development": {
+            "img": "./static/images/list-of-services/technology/44.svg",
+            "description": [
+                "Following our Systems Design, we proceed with the development and testing of a secure online store. We integrate payment gateways, marketplaces, and ERP for fulfillment. We also do custom developments on top of other solutions, such as Magento or Shopify."
+            ]
+        },
+        "Custom Chatbot Development and Integration": {
+            "img": "./static/images/list-of-services/technology/45.svg",
+            "description": [
+                "We design and build custom conversational and transactional (eCommerce) chatbots crafted to generate revenue and integrate seamlessly with your website and eCommerce applications."
+            ]
+        },
+        "Spark AR Filter Development": {
+            "img": "./static/images/list-of-services/technology/46.svg",
+            "description": [
+                "With Spark AR Studio, we develop custom AR filters to boost brand personality and memorability."
+            ]
+        },
+        "Custom Machine Learning Engineering Solutions": {
+            "img": "./static/images/list-of-services/technology/47.svg",
+            "description": [
+                "We implement custom machine learning solutions to enhance brand websites and applications. Solutions executed range across recommendation engines for eCommerce sites by deploying ML models, automated sentiment analysis systems, out-of-stock detection systems, anomaly detection systems and custom data scraping solutions."
+            ]
+        },
+        "Website and System Migration": {
+            "img": "./static/images/list-of-services/technology/48.svg",
+            "description": [
+                "We migrate sites from one tech stack to another: from PHP, Python, and JavaScript projects. We also migrate existing systems from one platform to another, as we have experts on AWS, GCP, and Digital Ocean platforms."
+            ]
+        },
+        "Software Development and Custom Integration Solutions": {
+            "img": "./static/images/list-of-services/technology/49.svg",
+            "description": [
+                "We design, build, and integrate solutions and applications based on custom requirements — CRM development and integration, custom web development solutions, single page applications, progressive web apps, back-end integration, custom workflow, and more."
+            ]
+        }
+    }
+}

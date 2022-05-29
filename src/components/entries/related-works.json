@@ -1,0 +1,107 @@
+[
+    {
+        "name": "PMFTC Awards",
+        "capabilityFocus": "cx",
+        "services": "analytics",
+        "image": "./static/images/related-works/pmftc.jpg",
+        "url": ""
+    },
+    {
+        "name": "Ingat Angat",
+        "capabilityFocus": "cx",
+        "services": "experience-design",
+        "image": "./static/images/related-works/ingat.png",
+        "url": ""
+    },
+    {
+        "name": "Swift Meat E-tindahan",
+        "capabilityFocus": "commerce",
+        "services": "technology",
+        "image": "./static/images/related-works/swift.jpg",
+        "url": ""
+    },
+    {
+        "name": "Avida Live Ready",
+        "capabilityFocus": "communications",
+        "services": "brand-strategy",
+        "image": "./static/images/related-works/avida.jpg",
+        "url": ""
+    },
+    {
+        "name": "Rockwellist",
+        "capabilityFocus": "cx",
+        "services": "experience-design",
+        "image": "./static/images/related-works/rockwellist.png",
+        "url": ""
+    },
+    {
+        "name": "Burger King Jackpot Fries",
+        "capabilityFocus": "communications",
+        "services": "brand-strategy",
+        "image": "./static/images/related-works/burger-king.jpg",
+        "url": ""
+    },
+    {
+        "name": "Greenwich GBox",
+        "capabilityFocus": "cx",
+        "services": "brand-strategy",
+        "image": "./static/images/related-works/greenwich.jpg",
+        "url": ""
+    },
+    {
+        "name": "Jollibee Corporate Website",
+        "capabilityFocus": "cx",
+        "services": "experience-design",
+        "image": "./static/images/related-works/jollibee.png",
+        "url": ""
+    },
+    {
+        "name": "CECP Website",
+        "capabilityFocus": "cx",
+        "services": "experience-design",
+        "image": "./static/images/related-works/cecp.png",
+        "url": ""
+    },
+    {
+        "name": "UNICEF Basket of Hope Year 2",
+        "capabilityFocus": "commerce",
+        "services": "media",
+        "image": "./static/images/related-works/unicef.svg",
+        "url": ""
+    },
+    {
+        "name": "Red Horse Beer Planner",
+        "capabilityFocus": "communications",
+        "services": "engagement",
+        "image": "./static/images/related-works/red-horse.jpg",
+        "url": ""
+    },
+    {
+        "name": "Purina Super Christmas",
+        "capabilityFocus": "commerce",
+        "services": "ecommerce-marketing",
+        "image": "./static/images/related-works/purina.jpg",
+        "url": ""
+    },
+    {
+        "name": "Marlboro Ice Blast",
+        "capabilityFocus": "cx",
+        "services": "brand-strategy",
+        "image": "./static/images/related-works/marlboro.png",
+        "url": ""
+    },
+    {
+        "name": "SMB Delivers commerce",
+        "capabilityFocus": "commerce",
+        "services": "creative",
+        "image": "./static/images/related-works/smb.jpg",
+        "url": ""
+    },
+    {
+        "name": "Boomerang Awards",
+        "capabilityFocus": "cx",
+        "services": "technology",
+        "image": "./static/images/related-works/boomerang.png",
+        "url": ""
+    }
+]
