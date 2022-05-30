@@ -29,3 +29,4 @@ You may also see any lint errors in the console.
 > git checkout 0000-ft-read_me_updates
 > git add -a
 > git commit - "Updates for README.md"
+> git push origin 0000-ft-read_me_updates
